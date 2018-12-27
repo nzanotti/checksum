@@ -128,7 +128,7 @@ Note: valid column range for first parameter is 1 to 3.
 
 * 1811 (2018-11-26)
   - Included 2018-Oct CPU.
-  - Add 18c support.
+  - Added 18c support.
 * 1810 (2018-10-01)
   - Minor Improvements. First Public Release.
 * 1804 (2018-04-30)
